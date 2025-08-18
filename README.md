@@ -18,3 +18,10 @@ This code implements a password management software from scratch with the follow
 - Search among saved passwords
 - Ability to edit and delete passwords
 - Modern and responsive user interface
+
+<!-- License -->
+## :warning: License
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+<div>&nbsp;</div>
