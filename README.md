@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shin</h1>
-<h3 align="center">A passionate Programmer Robotics from Iran</h3>
+<div align="center">
+
+
+  <img src="https://avatars.githubusercontent.com/u/204328941?v=4&size=64.ping" alt="logo" width="100" height="auto"  />
+  <h2 align="center">shin-hanzo</h2>
+  <h1 align="center">StrongBox</h1>
+  <h3 align="center"></h3>
+
+</div>
 
 
 I present the Strongbox project as an HTML file with password management capabilities. 
